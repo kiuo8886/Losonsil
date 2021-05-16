@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background-image: url(img/파푸니카.jpg);
+    background-size: cover;
+    }
+h1 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding: 20px;
+    margin: 0;
+    font-size: 100px;
+    }
+#ol1 {
+    border-right: 2px solid black;
+    margin: 0;
+    background-color: white;
+    }
+.li1 {
+    padding: 12px;
+    }
+.main {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    }
+h2 {
+    font-size: 50px;
+    text-align: center;
+    }
+a {
+    color: black;
+    text-decoration: none;
+    }
+#grid1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 2px solid black;
+    }
+#grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    }
+.퀘스트 {
+    color: orangered;
+    }
+.호감도 {
+    color: orchid;
+    }
+.평판 {
+    color: springgreen;
+    }
+.물물교환 {
+    color: deeppink;
+    }
+.모험의서 {
+    color: darkorange;
+    }
+.확률수집 {
+    color: turquoise;
+    }
+.몬스터 {
+    color: rgb(17, 15, 15);
+    }
+.영지 {
+    color: rgb(204, 204, 9);
+    }
+.타워 {
+    color: navy;
+    }
+.필드보스 {
+    color: gray;
+    }
+.수집품 {
+    color: skyblue;
+    }
+.보스러시 {
+    color: firebrick;
+    }
+.큐브 {
+    color: gold;
+    }
+.대항해 {
+    color: blue;
+    }
+.비밀던전 {
+    color: brown;
+    }
+.던전 {
+    color: crimson;
+    }
+.일반보상 {
+    color: rgb(7, 85, 131);
+    }
