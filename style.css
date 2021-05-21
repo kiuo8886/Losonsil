@@ -5,15 +5,17 @@ body {
     }
 h1 {
     text-align: center;
-    border-bottom: 2px solid black;
+    border: 2px solid black;
     padding: 20px;
-    margin: 0;
+    margin: 50px;
     font-size: 100px;
+    background-color: blanchedalmond;
     }
 #ol1 {
-    border-right: 2px solid black;
-    margin: 0;
-    background-color: white;
+    border: 2px solid black;
+    margin: 50px;
+    background-color: blanchedalmond;
+    margin-top: 0;
     }
 .li1 {
     padding: 12px;
@@ -21,6 +23,13 @@ h1 {
 .main {
     display: grid;
     grid-template-columns: 400px 1fr;
+    }
+.main2 {
+    margin: 50px;
+    border: 2px solid black;
+    background-color:  blanchedalmond;
+    margin-top: 0;
+    margin-left: 0;
     }
 h2 {
     font-size: 50px;
